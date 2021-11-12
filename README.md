@@ -10,3 +10,4 @@
 
 ![Snake animation](https://github.com/sabrinazanella/sabrinazanella/blob/output/github-contribution-grid-snake.svg)
 
+
